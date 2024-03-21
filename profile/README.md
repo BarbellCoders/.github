@@ -23,7 +23,7 @@ Our team is our greatest strength. We're a diverse group of developers with a sh
 
 ## Get Involved
 
-Interested in joining our ranks or collaborating on a project? Reach out to us at contact@barbellcoders.com.
+Interested in joining our ranks or collaborating on a project? Reach out to us at BarbellCoders@gmail.com
 
 ## Support
 
