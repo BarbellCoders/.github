@@ -20,6 +20,7 @@ Our team is our greatest strength. We're a diverse group of developers with a sh
 |-------------|------|----------|
 | Sai Vishnu Anudeep Kadiyala | Full stack Developer | <a href="https://www.linkedin.com/in/saivishnuanudeepkadiyala/">Profile</a> |
 | Satwik Bhasin | Full stack Developer | <a href="https://www.linkedin.com/in/satwikbhasin/">Profile</a> |
+| Muskaan Shaikh | Full stack Developer | <a href="https://www.linkedin.com/in/shaikh-muskaan/">Profile</a> |
 
 ## Get Involved
 
